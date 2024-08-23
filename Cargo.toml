@@ -1,6 +1,10 @@
 [package]
 name = "ivos-test-crate"
+description = "A personal crate for testing the process of publishing to crates.io"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/quadruple-output/ivos-test-crate"
+authors = ["quadruple-output <57874618+quadruple-output@users.noreply.github.com>"]
 
 [dependencies]
